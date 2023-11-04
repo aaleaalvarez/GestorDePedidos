@@ -1,0 +1,8 @@
+module:com.example.gestorpedidos
+com.example.gestorpedidos
+com.example.gestorpedidos.controllers
+com.example.gestorpedidos.domain
+com.example.gestorpedidos.domain.ItemPedido
+com.example.gestorpedidos.domain.Pedido
+com.example.gestorpedidos.domain.Producto
+com.example.gestorpedidos.domain.Usuario
